@@ -1,0 +1,161 @@
+arbeide, arbeider, arbeidet, har-arbeidet, work,
+bade, bader, badet, har-badet, bathe,
+be, ber, bad, har-bedt, ask for, pray,
+bedra, bedrar, bedro, har-bedratt, cheat,
+begynne, begynner, begynte, har-begynt, begin,
+beskrive, beskriver, beskrev, har-beskrevet, describe,
+bestemme, bestemmer, bestemte, har-bestemt, decide, resolve,
+bestille, bestiller, bestilte, har-bestilt, order (food etc.),
+bety, betyr, betydde, betød, har-betydd, mean (signify, matter),
+binde, binder, bandt, har-bundet, bind,
+bite, biter, beit, har-bitt, bite,
+bli, blir, ble, har-blitt, become (be),
+bo, bor, bodde, har-bodd, live (be resident),
+brekke, brekker, brakk, har-brukket, break,
+brenne, brenner, brente, har-brent, burn (set fire to),
+brenne, brenner, brant, har-brent, burn (be on fire),
+bryte, bryter, brøt, har-brutt, break,
+by, byr, bød, har-budt, bydd, bid,
+bære, bærer, bar, har-båret, carry,
+dette, detter, datt, har-dettet, fall,
+dra, drar, dro, har-dratt, go, move, pull,
+drikke, drikker, drakk, har-drukket, drink,
+drive, driver, dreiv, har-drevet, operate (enterprise),
+drømme, drømmer, drømte, har-drømt, dream,
+falle, faller, falt, har-falt, fall,
+finne, finner, fant, har-funnet, find,
+finnes, finnes, fantes, har-funnes, exist,
+fly, flyr, fløy, har-fløyet, flydd, fly,
+flyte, flyter, fløt, har-flytt, float,
+forby, forbyr, forbød, har-forbudt, forbid,
+foreslå, foreslår, foreslo, har-foreslått, suggest,
+foretrekke, foretrekker, foretrakk, har-foretrukket, prefer,
+forlate, forlater, forlot, har-forlatt, leave,
+forstå, forstår, forsto(d), har-forstått, understand,
+forsvinne, forsvinner, forsvant, har-forsvunnet, disappear,
+fortelle, forteller, fortalte, har-fortalt, tell,
+fryse, fryser, frøs, har-frosset, freeze, be cold,
+fyke, fyker, føk, har-føket, drift,
+fylle, fyller, fylte, har-fylt, fill, stuff,
+få, får, fikk, har-fått, get, receive,
+gi, gir, ga, har-gitt, give,
+gidde, gidder, gadd, har-giddet, to bother to do,
+gjelde, gjelder, gjaldt, har-gjeldt, concern,
+gjemme, gjemmer, gjemte, har-gjemt, hide,
+gjøre, gjør, gjorde, har-gjort, do,
+glede seg, gleder seg, gledet seg, har-gledet seg, look forward to,
+glemme, glemmer, glemte, har-glemt, forget,
+gli, glir, gled, har-glidd, glide, slip, slide,
+glippe, glipper, glapp, har-glippet, slip away,
+gni, gnir, gned, har-gnidd, rub,
+grine, griner, grein, har-grint, cry (weep),
+gripe, griper, greip, har-grepet, catch, seize, grab,
+gråte, gråter, gråt, har-grått, cry (weep),
+gå, går, gikk, har-gått, go, walk, leave,
+hende, hender, hendte, har-hendt, happen, occur,
+henge, henger, hang, har-hengt, hang (be suspended),
+henge, henger, hengte, har-hengt, hang (suspend),
+hete, heter, het, har-hett, be called,
+hilse, hilser, hilste, har-hilst, greet,
+hjelpe, hjelper, hjalp, har-hjulpet, help,
+holde, holder, holdt, har-holdt, hold,
+håpe, håper, håpet, håpte, har-håpet, håpt, hope,
+kjenne, kjenner, kjente, har-kjent, know (person, place), feel,
+kle, kler, kledde, har-kledd, dress,
+klippe, klipper, klippet, har-klipt, cut,
+klype, klyper, kløp, har-kløpet, pinch,
+knekke, knekker, knakk, har-knekt, crack, snap,
+knipe, kniper, kneip, har-knepet, pinch,
+komme, kommer, kom, har-kommet, come,
+kose seg, koser seg, koste seg, har-kost seg, have a good time,
+krype, kryper, krøp, har-krøpet, crawl,
+la, lar, lot, har-latt, allow, permit,
+lage, lager, laget, har-laget, make,
+late som, later som, lot som, har-latt som, pretend,
+le, ler, lo, har-ledd, laugh,
+legge, legger, la, har-lagt, lay, place down, put,
+lete, leter, lette, har-lett, look for, search,
+lide, lider, led, har-lidd, suffer,
+ligge, ligger, lå, har-ligget, lie down,
+lyve, lyver, løy, har-løyet, lie (not telling the truth),
+møte, møter, møtte, har-møtt, meet,
+nyse, nyser, nøs, har-nøset, sneeze,
+nyte, nyter, nøt, har-nytt, enjoy,
+overdrive, overdriver, overdreiv, har-overdrevet, exaggerate,
+passe, passer, passet, har-passet, suit (fit well),
+pipe, piper, peip, har-pepet, chirp,
+pleie, pleier, pleide, har-pleid, use to, nurse,
+rekke, rekker, rakk, har-rukket, reach, catch (transport),
+renne, renner, rant, har-runnet, flow,
+ri, rir, reid, har-ridd, ride,
+rive, river, reiv, har-revet, tear (apart),
+rope, roper, ropte, har-ropt, cry, shout, call,
+ryke, ryker, røk, har-røket, burst,
+se, ser, så, har-sett, see, look,
+selge, selger, solgte, har-solgt, sell,
+sende, sender, sendte, har-sendt, send,
+sette, setter, satte, har-satt, place, put, sett,
+si, sier, sa, har-sagt, say, tell,
+sitte, sitter, satt, har-sittet, sit,
+skinne, skinner, skinte, har-skint, shine,
+skjelve, skjelver, skalv, har-skjelvet, tremble, shake,
+skjære, skjærer, skar, har-skåret, cut, slice,
+skjønne, skjønner, skjønte, har-skjønt, understand,
+skrike, skriker, skreik, har-skreket, cry (scream),
+skrive, skriver, skrev, har-skrevet, write,
+skryte, skryter, skrøt, har-skrytt, brag,
+skyldes, skyldes, skyldtes, har-skyldtes, be caused by,
+skylle, skyller, skylte, har-skyllet, rinse, wash,
+skynde, skynder, skyndte, har-skyndt, hurry up,
+skyte, skyter, skjøt, har-skutt, shoot,
+skyve, skyver, skjøv, har-skjøvet, push,
+slippe, slipper, slapp, har-sluppet, let go,
+slite, sliter, sleit, har-slitt, pull, tear, struggle,
+slå, slår, slo, har-slått, beat,
+slåss, slåss, sloss, har-slåss, fight,
+smelle, smeller, smalt, har-smelt, bang,
+snipe, sniker, snek, har-sneket, sneak,
+sove, sover, sov, har-sovet, sleep,
+spille, spiller, spilte, har-spilt, play (game),
+spinne, spinner, spant, har-spunnet, spin, purr,
+sprekke, sprekker, sprakk, har-sprukket, burst
+sprette, spretter, spratt, har-sprettet, bounce, leap, jump
+springe, springer, sprang, har-sprunget, run
+spørre, spør, spurte, har-spurt, ask, inquire
+stave, staver, stavet, har-stavet, spell
+stelle, steller, stelte, har-stelt, care for, nurse
+stemme, stemmer, stemte, har-stemt, tune, vote, be correct
+stenge, stenger, stengte, har-stengt, close, block
+stige, stiger, steig, har-steget, rise, increase, mount
+stikke, stikker, stakk, har-stukket, sting, run away
+stille, stiller, stilte, har-stilt, put, place, set
+stjele, stjeler, stjal, har-stjålet, steal
+strekke, strekker, strakk, har-strukket, stretch, draw out
+stryke, stryker, strøk, har-strøket, iron (clothes), fail (exam)
+stå, står, sto(d), har-stått, stand
+svike, sviker, sveik, har-sveket, deceive, disappoint
+svømme, svømmer, svømte, har-svømt, swim
+sy, syr, sydde, har-sydd, sew
+synes, synes, syntes, har-syntes, think (mean), seem
+synge, synger, sang, har-sunget, sing
+synke, synker, sank, har-sunket, sink
+ta, tar, tok, har-tatt, take
+tenke, tenker, tenkte, har-tenkt, think, suppose
+tilby, tilbyr, tilbød, har-tilbudt, offer
+tillate, tillater, tillot, har-tillatt, allow
+treffe, treffer, traff, har-truffet, meet
+treffes, treffes, treftes, har-treftes, meet each other
+trekke, trekker, trakk, har-trukket, pull
+trenge, trenger, trengte, har-trengt, need
+trives, trives, trivdes, har-trivdes, feel fine, thrive
+tvinge, tvinger, tvang, har-tvunget, force
+tørke, tørker, tørket, har-tørket, dry
+tørre, tør, turte, har-turt, dare
+unngå, unngår, unngikk, har-unngått, avoid
+velge, velger, valgte, har-valgt, choose, elect
+vinne, vinner, vant, har-vunnet, gain, win
+vite, vet, visste, har-visst, know (knowledge)
+vokse, vokser, vokste, har-vokst, grow, increase, wax
+vri, vrir, vrei, har-vridd, twist
+ødelegge, ødelegger, ødela, har-ødelagt, destroy
+

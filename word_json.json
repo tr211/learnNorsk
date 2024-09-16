@@ -1,0 +1,425 @@
+{
+    "be": {
+        "Presens": "ber",
+        "Preteritum": "bad",
+        "Pres. perfektum ": "har-bedt",
+        "english": [
+            "ask for",
+            "pray,\n"
+        ]
+    },
+    "bestemme": {
+        "Presens": "bestemmer",
+        "Preteritum": "bestemte",
+        "Pres. perfektum ": "har-bestemt",
+        "english": [
+            "decide",
+            "resolve,\n"
+        ]
+    },
+    "bety": {
+        "Presens": "betyr",
+        "Preteritum": "betydde",
+        "Pres. perfektum ": "betød",
+        "english": [
+            "har-betydd",
+            "mean (signify"
+        ]
+    },
+    "by": {
+        "Presens": "byr",
+        "Preteritum": "bød",
+        "Pres. perfektum ": "har-budt",
+        "english": [
+            "bydd",
+            "bid,\n"
+        ]
+    },
+    "dra": {
+        "Presens": "drar",
+        "Preteritum": "dro",
+        "Pres. perfektum ": "har-dratt",
+        "english": [
+            "go",
+            "move"
+        ]
+    },
+    "fly": {
+        "Presens": "flyr",
+        "Preteritum": "fløy",
+        "Pres. perfektum ": "har-fløyet",
+        "english": [
+            "flydd",
+            "fly,\n"
+        ]
+    },
+    "fryse": {
+        "Presens": "fryser",
+        "Preteritum": "frøs",
+        "Pres. perfektum ": "har-frosset",
+        "english": [
+            "freeze",
+            "be cold,\n"
+        ]
+    },
+    "fylle": {
+        "Presens": "fyller",
+        "Preteritum": "fylte",
+        "Pres. perfektum ": "har-fylt",
+        "english": [
+            "fill",
+            "stuff,\n"
+        ]
+    },
+    "få": {
+        "Presens": "får",
+        "Preteritum": "fikk",
+        "Pres. perfektum ": "har-fått",
+        "english": [
+            "get",
+            "receive,\n"
+        ]
+    },
+    "gli": {
+        "Presens": "glir",
+        "Preteritum": "gled",
+        "Pres. perfektum ": "har-glidd",
+        "english": [
+            "glide",
+            "slip"
+        ]
+    },
+    "gripe": {
+        "Presens": "griper",
+        "Preteritum": "greip",
+        "Pres. perfektum ": "har-grepet",
+        "english": [
+            "catch",
+            "seize"
+        ]
+    },
+    "gå": {
+        "Presens": "går",
+        "Preteritum": "gikk",
+        "Pres. perfektum ": "har-gått",
+        "english": [
+            "go",
+            "walk"
+        ]
+    },
+    "hende": {
+        "Presens": "hender",
+        "Preteritum": "hendte",
+        "Pres. perfektum ": "har-hendt",
+        "english": [
+            "happen",
+            "occur,\n"
+        ]
+    },
+    "håpe": {
+        "Presens": "håper",
+        "Preteritum": "håpet",
+        "Pres. perfektum ": "håpte",
+        "english": [
+            "har-håpet",
+            "håpt"
+        ]
+    },
+    "kjenne": {
+        "Presens": "kjenner",
+        "Preteritum": "kjente",
+        "Pres. perfektum ": "har-kjent",
+        "english": [
+            "know (person",
+            "place)"
+        ]
+    },
+    "knekke": {
+        "Presens": "knekker",
+        "Preteritum": "knakk",
+        "Pres. perfektum ": "har-knekt",
+        "english": [
+            "crack",
+            "snap,\n"
+        ]
+    },
+    "la": {
+        "Presens": "lar",
+        "Preteritum": "lot",
+        "Pres. perfektum ": "har-latt",
+        "english": [
+            "allow",
+            "permit,\n"
+        ]
+    },
+    "legge": {
+        "Presens": "legger",
+        "Preteritum": "la",
+        "Pres. perfektum ": "har-lagt",
+        "english": [
+            "lay",
+            "place down"
+        ]
+    },
+    "lete": {
+        "Presens": "leter",
+        "Preteritum": "lette",
+        "Pres. perfektum ": "har-lett",
+        "english": [
+            "look for",
+            "search,\n"
+        ]
+    },
+    "pleie": {
+        "Presens": "pleier",
+        "Preteritum": "pleide",
+        "Pres. perfektum ": "har-pleid",
+        "english": [
+            "use to",
+            "nurse,\n"
+        ]
+    },
+    "rekke": {
+        "Presens": "rekker",
+        "Preteritum": "rakk",
+        "Pres. perfektum ": "har-rukket",
+        "english": [
+            "reach",
+            "catch (transport),\n"
+        ]
+    },
+    "rope": {
+        "Presens": "roper",
+        "Preteritum": "ropte",
+        "Pres. perfektum ": "har-ropt",
+        "english": [
+            "cry",
+            "shout"
+        ]
+    },
+    "se": {
+        "Presens": "ser",
+        "Preteritum": "så",
+        "Pres. perfektum ": "har-sett",
+        "english": [
+            "see",
+            "look,\n"
+        ]
+    },
+    "sette": {
+        "Presens": "setter",
+        "Preteritum": "satte",
+        "Pres. perfektum ": "har-satt",
+        "english": [
+            "place",
+            "put"
+        ]
+    },
+    "si": {
+        "Presens": "sier",
+        "Preteritum": "sa",
+        "Pres. perfektum ": "har-sagt",
+        "english": [
+            "say",
+            "tell,\n"
+        ]
+    },
+    "skjelve": {
+        "Presens": "skjelver",
+        "Preteritum": "skalv",
+        "Pres. perfektum ": "har-skjelvet",
+        "english": [
+            "tremble",
+            "shake,\n"
+        ]
+    },
+    "skjære": {
+        "Presens": "skjærer",
+        "Preteritum": "skar",
+        "Pres. perfektum ": "har-skåret",
+        "english": [
+            "cut",
+            "slice,\n"
+        ]
+    },
+    "skylle": {
+        "Presens": "skyller",
+        "Preteritum": "skylte",
+        "Pres. perfektum ": "har-skyllet",
+        "english": [
+            "rinse",
+            "wash,\n"
+        ]
+    },
+    "slite": {
+        "Presens": "sliter",
+        "Preteritum": "sleit",
+        "Pres. perfektum ": "har-slitt",
+        "english": [
+            "pull",
+            "tear"
+        ]
+    },
+    "spinne": {
+        "Presens": "spinner",
+        "Preteritum": "spant",
+        "Pres. perfektum ": "har-spunnet",
+        "english": [
+            "spin",
+            "purr,\n"
+        ]
+    },
+    "sprette": {
+        "Presens": "spretter",
+        "Preteritum": "spratt",
+        "Pres. perfektum ": "har-sprettet",
+        "english": [
+            "bounce",
+            "leap"
+        ]
+    },
+    "spørre": {
+        "Presens": "spør",
+        "Preteritum": "spurte",
+        "Pres. perfektum ": "har-spurt",
+        "english": [
+            "ask",
+            "inquire\n"
+        ]
+    },
+    "stelle": {
+        "Presens": "steller",
+        "Preteritum": "stelte",
+        "Pres. perfektum ": "har-stelt",
+        "english": [
+            "care for",
+            "nurse\n"
+        ]
+    },
+    "stemme": {
+        "Presens": "stemmer",
+        "Preteritum": "stemte",
+        "Pres. perfektum ": "har-stemt",
+        "english": [
+            "tune",
+            "vote"
+        ]
+    },
+    "stenge": {
+        "Presens": "stenger",
+        "Preteritum": "stengte",
+        "Pres. perfektum ": "har-stengt",
+        "english": [
+            "close",
+            "block\n"
+        ]
+    },
+    "stige": {
+        "Presens": "stiger",
+        "Preteritum": "steig",
+        "Pres. perfektum ": "har-steget",
+        "english": [
+            "rise",
+            "increase"
+        ]
+    },
+    "stikke": {
+        "Presens": "stikker",
+        "Preteritum": "stakk",
+        "Pres. perfektum ": "har-stukket",
+        "english": [
+            "sting",
+            "run away\n"
+        ]
+    },
+    "stille": {
+        "Presens": "stiller",
+        "Preteritum": "stilte",
+        "Pres. perfektum ": "har-stilt",
+        "english": [
+            "put",
+            "place"
+        ]
+    },
+    "strekke": {
+        "Presens": "strekker",
+        "Preteritum": "strakk",
+        "Pres. perfektum ": "har-strukket",
+        "english": [
+            "stretch",
+            "draw out\n"
+        ]
+    },
+    "stryke": {
+        "Presens": "stryker",
+        "Preteritum": "strøk",
+        "Pres. perfektum ": "har-strøket",
+        "english": [
+            "iron (clothes)",
+            "fail (exam)\n"
+        ]
+    },
+    "svike": {
+        "Presens": "sviker",
+        "Preteritum": "sveik",
+        "Pres. perfektum ": "har-sveket",
+        "english": [
+            "deceive",
+            "disappoint\n"
+        ]
+    },
+    "synes": {
+        "Presens": "synes",
+        "Preteritum": "syntes",
+        "Pres. perfektum ": "har-syntes",
+        "english": [
+            "think (mean)",
+            "seem\n"
+        ]
+    },
+    "tenke": {
+        "Presens": "tenker",
+        "Preteritum": "tenkte",
+        "Pres. perfektum ": "har-tenkt",
+        "english": [
+            "think",
+            "suppose\n"
+        ]
+    },
+    "trives": {
+        "Presens": "trives",
+        "Preteritum": "trivdes",
+        "Pres. perfektum ": "har-trivdes",
+        "english": [
+            "feel fine",
+            "thrive\n"
+        ]
+    },
+    "velge": {
+        "Presens": "velger",
+        "Preteritum": "valgte",
+        "Pres. perfektum ": "har-valgt",
+        "english": [
+            "choose",
+            "elect\n"
+        ]
+    },
+    "vinne": {
+        "Presens": "vinner",
+        "Preteritum": "vant",
+        "Pres. perfektum ": "har-vunnet",
+        "english": [
+            "gain",
+            "win\n"
+        ]
+    },
+    "vokse": {
+        "Presens": "vokser",
+        "Preteritum": "vokste",
+        "Pres. perfektum ": "har-vokst",
+        "english": [
+            "grow",
+            "increase"
+        ]
+    }
+}
